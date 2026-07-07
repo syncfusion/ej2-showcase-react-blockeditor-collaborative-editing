@@ -1,0 +1,50 @@
+{
+    "name": "@syncfusion/ej2-react-blockeditor-collaborative-editing",
+    "private": true,
+    "version": "1.0.0",
+    "description": "EJ2 React Blockeditor - Collaborative Editing",
+    "author": "Syncfusion Inc.",
+    "license": "SEE LICENSE IN license",
+    "scripts": {
+        "start": "vite",
+        "build": "tsc -b && vite build",
+        "lint": "eslint .",
+        "preview": "vite preview",
+        "ci-publish": "gulp publish-sample"
+    },
+    "dependencies": {
+        "@syncfusion/ej2-blockeditor": "*",
+        "@syncfusion/ej2-layouts": "*",
+        "@syncfusion/ej2-react-blockeditor": "*",
+        "@syncfusion/ej2-react-buttons": "*",
+        "@syncfusion/ej2-react-dropdowns": "*",
+        "@syncfusion/ej2-react-inputs": "*",
+        "@syncfusion/ej2-react-lists": "*",
+        "@syncfusion/ej2-react-navigations": "*",
+        "@syncfusion/ej2-react-notifications": "*",
+        "@syncfusion/ej2-react-popups": "*",
+        "@syncfusion/ej2-react-splitbuttons": "*",
+        "react": "^19.2.6",
+        "react-dom": "^19.2.6",
+        "turndown": "^7.2.4",
+        "turndown-plugin-gfm": "^1.0.2",
+        "y-websocket": "^3.0.0",
+        "yjs": "^13.6.30"
+    },
+    "devDependencies": {
+        "@eslint/js": "^10.0.1",
+        "@syncfusion/ej2-showcase-helper": "*",
+        "@types/node": "^24.12.3",
+        "@types/react": "^19.2.14",
+        "@types/react-dom": "^19.2.3",
+        "@types/turndown": "^5.0.6",
+        "@vitejs/plugin-react": "^6.0.1",
+        "eslint": "^10.3.0",
+        "eslint-plugin-react-hooks": "^7.1.1",
+        "eslint-plugin-react-refresh": "^0.5.2",
+        "globals": "^17.6.0",
+        "typescript": "~6.0.2",
+        "typescript-eslint": "^8.59.2",
+        "vite": "^8.0.12"
+    }
+}
