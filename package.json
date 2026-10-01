@@ -24,6 +24,7 @@
         "@syncfusion/ej2-react-notifications": "*",
         "@syncfusion/ej2-react-popups": "*",
         "@syncfusion/ej2-react-splitbuttons": "*",
+        "@syncfusion/ej2-tailwind3-theme": "*",
         "react": "^19.2.6",
         "react-dom": "^19.2.6",
         "turndown": "^7.2.4",
